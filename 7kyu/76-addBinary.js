@@ -1,5 +1,5 @@
 //2024-CODING-CHALLENGE
-// 75/366
+// 76/366
 // https://www.codewars.com/kata/551f37452ff852b7bd000139
 
 // function addBinary(a, b) {
