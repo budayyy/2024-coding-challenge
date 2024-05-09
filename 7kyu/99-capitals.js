@@ -4,13 +4,15 @@
 
 var capitals = function (word) {
   // Write your code here
+  word = word.split("");
   let result = [];
-  word.split("");
+
   for (let i = 0; i < word.length; i++) {
-    if (word[i] === word[i].length) {
+    if (word[i] === word[i].toUpperCase()) {
       result.push(i);
     }
   }
+
   return result;
 };
 
