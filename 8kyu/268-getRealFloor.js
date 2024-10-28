@@ -1,5 +1,5 @@
 // 2024-CODING-CHALLENGE
-// 267/366
+// 268/366
 // https://www.codewars.com/kata/574b3b1599d8f897470018f6
 
 function getRealFloor(n) {
