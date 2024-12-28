@@ -1,6 +1,6 @@
 // 2024-CODING-CHALLENGE
-// 327/366
-// https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036
+// 328/366
+// https://www.codewars.com/kata/5f70c883e10f9e0001c89673
 
 const flip = (d, a) => {
   if (d === "R") {
